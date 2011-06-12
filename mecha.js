@@ -1,6 +1,6 @@
 [
 {
-"device"="Incredible",
+"device"="Mecha",
 "base"="1.3.0",
 "version"=4,
 "date"="June 11, 2011",
