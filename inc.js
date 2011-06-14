@@ -44,7 +44,7 @@
 "base"="1.3.0",
 "version"=1,
 "date"="Some date",
-"name"="OMFGB_inc-1.3.0_nightly-1.zip,
+"name"="OMFGB_inc-1.3.0_nightly-1.zip",
 "url"="http://r2doesinc.bitsurge.net/nightlies/Inc/OMFGB_inc-1.3.0_nightly-1.zip",
 "installable"="false"
 }
