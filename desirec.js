@@ -2,10 +2,10 @@
 {
 "device"="DesireC",
 "base"="1.3.0",
-"version"=8,
-"date"="June 12, 2011",
-"name"="OMFGB_sholes-1.3.0_nightly-8.zip",
-"url"="http://r2doesinc.bitsurge.net/nightlies/desirec/OMFGB_desirec-1.3.0_nightly-8.zip",
+"version"=10,
+"date"="J6/20",
+"name"="OMFGB_desirec-1.3.0_nightly-10.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/desirec/OMFGB_desirec-1.3.0_nightly-10.zip",
 "installable"="false"
 }
 ]
