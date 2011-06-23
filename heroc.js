@@ -2,6 +2,15 @@
 {
 "device"="heroc",
 "base"="1.3.0",
+"version"=06-23,
+"date"="06-23",
+"name"="OMFGB_heroc-1.3.0_nightly-6-23.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/heroc/OMFGB_heroc-1.3.0_nightly-06-23.zip",
+"installable"="false"
+},
+{
+"device"="heroc",
+"base"="1.3.0",
 "version"=06-22,
 "date"="06-22",
 "name"="OMFGB_heroc-1.3.0_nightly-6-22.zip",
