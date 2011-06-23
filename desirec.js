@@ -1,3 +1,4 @@
+[
 {
 "device"="DesireC",
 "base"="1.3.0",
