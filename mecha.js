@@ -2,6 +2,15 @@
 {
 "device"="mecha",
 "base"="1.3.0",
+"version"=07-02,
+"date"="07-02",
+"name"="OMFGB_mecha-1.3.0_nightly-07-02.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/mecha/OMFGB_mecha-1.3.0_nightly-07-02.zip",
+"installable"="false"
+},
+{
+"device"="mecha",
+"base"="1.3.0",
 "version"=07-01,
 "date"="07-01",
 "name"="OMFGB_mecha-1.3.0_nightly-07-01.zip",
