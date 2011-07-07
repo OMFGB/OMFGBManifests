@@ -2,6 +2,15 @@
 {
 "device"="desirec",
 "base"="1.3.0",
+"version"=07-07,
+"date"="07-07",
+"name"="OMFGB_desirec-1.3.0_nightly-07-07.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/desirec/OMFGB_desirec-1.3.0_nightly-07-07.zip",
+"installable"="false"
+},
+{
+"device"="desirec",
+"base"="1.3.0",
 "version"=07-06,
 "date"="07-06",
 "name"="OMFGB_desirec-1.3.0_nightly-07-06.zip",
