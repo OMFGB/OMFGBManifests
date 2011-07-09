@@ -6,7 +6,7 @@
 "date"="07-09",
 "name"="OMFGB_inc-1.3.0_nightly-07-09.zip",
 "url"="http://r2doesinc.bitsurge.net/nightlies/inc/OMFGB_inc-1.3.0_nightly-07-09.zip",
-"installable"="false"
+"installable"="false",
 "description"="inc 07-09 OMFGB 1.3.0 nightly."
 },
 {
