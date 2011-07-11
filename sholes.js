@@ -2,6 +2,16 @@
 {
 "device"="sholes",
 "base"="1.3.0",
+"version"=07-11,
+"date"="07-11",
+"name"="OMFGB_sholes-1.3.0_nightly-07-11.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/sholes/OMFGB_sholes-1.3.0_nightly-07-11.zip",
+"installable"="false",
+"description"="sholes 07-11 OMFGB 1.3.0 nightly."
+},
+{
+"device"="sholes",
+"base"="1.3.0",
 "version"=07-09,
 "date"="07-09",
 "name"="OMFGB_sholes-1.3.0_nightly-07-09.zip",
