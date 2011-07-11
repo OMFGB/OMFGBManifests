@@ -25,6 +25,15 @@
 "installable"="false",
 "category"="kernel",
 "description"="SBC kernel for OMFGB"
+},
+{
+"device"="mecha",
+"name"="OMFGB-Drod Cfs",
+"zipname"="OMFGB-Drod_Cfs.zip",
+"url"="http://r2doesinc.bitsurge.net/Addons/OMFGB-Drod_Cfs.zip",
+"installable"="false",
+"category"="kernel",
+"description"="CFS kernel for OMFGB by Drod"
 }
 
 ]
