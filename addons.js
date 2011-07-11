@@ -27,6 +27,5 @@
 "description"="SBC kernel for OMFGB"
 }
 
-"http://r2doesinc.bitsurge.net/GAPPS.zip"
 ]
 
