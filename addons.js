@@ -18,15 +18,6 @@
 "category"="kernel"
 },
 {
-"device"="evo",
-"name"="OMFGBk-sbc 1",
-"zipname"="OOMFGBk-sbc_1.zip",
-"url"="http://r2doesinc.bitsurge.net/Addons/OMFGBk-sbc-1.zip",
-"installable"="false",
-"category"="kernel",
-"description"="SBC kernel for OMFGB"
-},
-{
 "device"="mecha",
 "name"="OMFGB-Drod Cfs",
 "zipname"="OMFGB-Drod_Cfs.zip",
