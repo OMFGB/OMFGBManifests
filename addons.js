@@ -1,6 +1,15 @@
 [
 {
 "device"="all",
+"name"=OMFT",
+"zipname"="OMFT.apk",
+"url:="http://r2doesinc.bitsurge/net/Addons/OMFT.apk",
+"installable"="true",
+"category"="applications",
+"description"="Only for HDPI devices at this time."
+},
+{
+"device"="all",
 "name"="Google Apps",
 "zipname"="gapps.zip",
 "url"="http://r2doesinc.bitsurge.net/GAPPS.zip",
@@ -44,7 +53,5 @@
 "category"="kernel",
 "description"="leanKernel v-3.5.1 by imoseyon"
 }
-
-
 ]
 
