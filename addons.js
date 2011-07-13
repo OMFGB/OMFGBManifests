@@ -1,7 +1,7 @@
 [
 {
 "device"="all",
-"name"=OMFT",
+"name"="OMFT",
 "zipname"="OMFT.apk",
 "url:="http://r2doesinc.bitsurge/net/Addons/OMFT.apk",
 "installable"="true",
