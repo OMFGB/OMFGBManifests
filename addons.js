@@ -25,7 +25,26 @@
 "installable"="false",
 "category"="kernel",
 "description"="CFS kernel for OMFGB by Drod"
+},
+{
+"device"="mecha",
+"name"="KangBang! BFS v-0.8",
+"zipname"="KangBang-BFS-0.8.zip",
+"url"="http://r2doesinc.bitsurge.net/Addons/KangBang-BFS-0.8.zip",
+"installable"="false",
+"category"="kernel",
+"description"="KangBang! BFS v-0.8 by drod2169"
+},
+{
+"device"="mecha",
+"name"="leanKernel v-3.5.1",
+"zipname"="imoseyon_leanKernel_v3.5.1AOSP.zip",
+"url"="http://r2doesinc.bitsurge.net/Addons/imoseyon_leanKernel_v3.5.1AOSP.zip",
+"installable"="false",
+"category"="kernel",
+"description"="leanKernel v-3.5.1 by imoseyon"
 }
+
 
 ]
 
