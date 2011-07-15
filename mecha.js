@@ -5,7 +5,7 @@
 "version"=07-15,
 "date"="07-15",
 "name"="OMFGB_mecha-1.3.0_nightly-07-11.zip",
-"URL"="http://r2doesinc.bitsurge.net/nightlies/mecha/OMFGB_mecha-1.3.0_nightly-07-15.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/mecha/OMFGB_mecha-1.3.0_nightly-07-15.zip",
 "installable"="false",
 "description"="mecha 07-15 OMFGB 1.3.0 nightly."
 },
