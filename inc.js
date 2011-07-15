@@ -2,6 +2,16 @@
 {
 "device"="inc",
 "base"="1.3.0",
+"version"=07-15,
+"date"="07-15",
+"name"="OMFGB_inc-1.3.0_nightly-07-15.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/inc/OMFGB_inc-1.3.0_nightly-07-15.zip",
+"installable"="false",
+"description"="Fixes to god mode, etc."
+},
+{
+"device"="inc",
+"base"="1.3.0",
 "version"=07-14,
 "date"="07-14",
 "name"="OMFGB_inc-1.3.0_nightly-07-14.zip",
