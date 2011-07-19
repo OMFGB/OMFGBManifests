@@ -2,6 +2,16 @@
 {
 "device"="vivow",
 "base"="1.3.0",
+"version"=07-19,
+"date"="07-19",
+"name"="OMFGB_vivow-1.3.0_nightly-07-19.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/vivow/OMFGB_vivow-1.3.0_nightly-07-19.zip",
+"installable"="false",
+"description"="Fixes to god mode, etc."
+},
+{
+"device"="vivow",
+"base"="1.3.0",
 "version"=07-16,
 "date"="07-16",
 "name"="OMFGB_vivow-1.3.0_nightly-07-16.zip",
