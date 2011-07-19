@@ -2,6 +2,16 @@
 {
 "device"="supersonic",
 "base"="1.3.0",
+"version"=07-19,
+"date"="07-19",
+"name"="OMFGB_supersonic-1.3.0_nightly-07-19.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/supersonic/OMFGB_supersonic-1.3.0_nightly-07-19.zip",
+"installable"="false",
+"description"="Fixes to god mode, etc."
+},
+{
+"device"="supersonic",
+"base"="1.3.0",
 "version"=07-11,
 "date"="07-11",
 "name"="OMFGB_supersonic-1.3.0_nightly-07-11.zip",
