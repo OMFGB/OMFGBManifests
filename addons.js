@@ -1,6 +1,14 @@
 [
+"device"="all",
+"name"="T3hh4xx0r Wallpapers",
+"zipname"="Wallpapers.apk",
+"url"="http://r2doesinc.bitsurge.net/Addons/Wallpapers.apk",
+"installable"="true",
+"category"="applications",
+"description"="Only for HDPI devices at this time."
+},
 {
-"device"="hdpi",
+"device"="all",
 "name"="OMFT",
 "zipname"="OMFT.apk",
 "url"="http://r2doesinc.bitsurge.net/Addons/OMFT.apk",
