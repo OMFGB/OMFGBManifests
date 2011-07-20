@@ -13,7 +13,7 @@
 "name"="OMFT 1.0.1",
 "zipname"="OMFT.zip",
 "url"="http://r2doesinc.bitsurge.net/Addons/OMFT.zip",
-"installable"="false",
+"installable"="true",
 "category"="applications",
 "description"="Custom theme designed for OMFGB and OMGB. Only for HDPI devices at this time. Updated 7-20."
 },
