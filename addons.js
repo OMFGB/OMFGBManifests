@@ -1,4 +1,5 @@
 [
+{
 "device"="all",
 "name"="T3hh4xx0r Wallpapers",
 "zipname"="Wallpapers.apk",
