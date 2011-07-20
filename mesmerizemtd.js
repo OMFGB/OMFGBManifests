@@ -9,3 +9,4 @@
 "installable"="false",
 "description"="God Mode enhancements, updated theme, new wallpaper, device specific updates, etc."
 }
+]
