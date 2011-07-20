@@ -12,10 +12,19 @@
 "device"="all",
 "name"="OMFT 1.0.1",
 "zipname"="OMFT.zip",
+"url"="http://r2doesinc.bitsurge.net/Addons/OMFT.apk",
+"installable"="true",
+"category"="applications",
+"description"="Custom theme designed for OMFGB and OMGB. Only for HDPI devices at this time. Updated 7-20."
+},
+{
+"device"="all",
+"name"="OMFT 1.0.1",
+"zipname"="OMFT.zip",
 "url"="http://r2doesinc.bitsurge.net/Addons/OMFT.zip",
 "installable"="false",
 "category"="applications",
-"description"="Custom theme designed for OMFGB and OMGB. Only for HDPI devices at this time. Updated 7-20."
+"description"="Flashable Custom theme designed for OMFGB and OMGB. Only for HDPI devices at this time. Updated 7-20."
 },
 {
 "device"="all",
