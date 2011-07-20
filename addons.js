@@ -3,7 +3,7 @@
 "device"="all",
 "name"="Wallpapers",
 "zipname"="Wallpapers.zip",
-"url"="http://r2doesinc.bitsurge.net/Addons/Wallpapers.apk",
+"url"="http://r2doesinc.bitsurge.net/Addons/Wallpapers.zip",
 "installable"="false",
 "category"="applications",
 "description"="Custom T3hh4xx0r wallpapers. Only for HDPI devices at this time."
@@ -12,7 +12,7 @@
 "device"="all",
 "name"="OMFT",
 "zipname"="OMFT.zip",
-"url"="http://r2doesinc.bitsurge.net/Addons/OMFT.apk",
+"url"="http://r2doesinc.bitsurge.net/Addons/OMFT.zip",
 "installable"="false",
 "category"="applications",
 "description"="Custom theme designed for OMFGB and OMGB. Only for HDPI devices at this time."
