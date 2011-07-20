@@ -1,6 +1,6 @@
 [
 {
-"device"="all",
+"device"="hdpi",
 "name"="OMFT",
 "zipname"="OMFT.apk",
 "url"="http://r2doesinc.bitsurge.net/Addons/OMFT.apk",
