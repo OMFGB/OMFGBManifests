@@ -1,21 +1,21 @@
 [
 {
 "device"="all",
-"name"="T3hh4xx0r Wallpapers",
-"zipname"="Wallpapers.apk",
+"name"="Wallpapers",
+"zipname"="Wallpapers.zip",
 "url"="http://r2doesinc.bitsurge.net/Addons/Wallpapers.apk",
-"installable"="true",
+"installable"="false",
 "category"="applications",
-"description"="Only for HDPI devices at this time."
+"description"="Custom T3hh4xx0r wallpapers. Only for HDPI devices at this time."
 },
 {
 "device"="all",
 "name"="OMFT",
-"zipname"="OMFT.apk",
+"zipname"="OMFT.zip",
 "url"="http://r2doesinc.bitsurge.net/Addons/OMFT.apk",
-"installable"="true",
+"installable"="false",
 "category"="applications",
-"description"="Only for HDPI devices at this time."
+"description"="Custom theme designed for OMFGB and OMGB. Only for HDPI devices at this time."
 },
 {
 "device"="all",
