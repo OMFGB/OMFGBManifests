@@ -2,6 +2,16 @@
 {
 "device"="inc",
 "base"="1.3.0",
+"version"=07-20,
+"date"="07-20",
+"name"="OMFGB_inc-1.3.0_nightly-07-20.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/inc/OMFGB_inc-1.3.0_nightly-07-20.zip",
+"installable"="false",
+"description"="God Mode enhancements, updated theme, new wallpaper, device specific updates, etc."
+},
+{
+"device"="inc",
+"base"="1.3.0",
 "version"=07-19,
 "date"="07-19",
 "name"="OMFGB_inc-1.3.0_nightly-07-19.zip",
