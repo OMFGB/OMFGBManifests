@@ -2,9 +2,9 @@
 {
 "device"="all",
 "name"="Wallpapers",
-"zipname"="Wallpapers.zip",
-"url"="http://r2doesinc.bitsurge.net/Addons/Wallpapers.zip",
-"installable"="false",
+"zipname"="Wallpapers.apk",
+"url"="http://r2doesinc.bitsurge.net/Addons/Wallpapers.apk",
+"installable"="true",
 "category"="applications",
 "description"="Custom T3hh4xx0r wallpapers. Only for HDPI devices at this time."
 },
