@@ -2,6 +2,16 @@
 {
 "device"="mecha",
 "base"="1.3.0",
+"version"=07-21,
+"date"="07-21",
+"name"="OMFGB_mecha-1.3.0_nightly-07-21.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/mecha/OMFGB_mecha-1.3.0_nightly-07-21.zip",
+"installable"="false",
+"description"="You MUST manually wipe /system BEFORE flashing tonights build. God Mode enhancements and fixes, device specific updates -wimax and camera, updated google apps."
+},
+{
+"device"="mecha",
+"base"="1.3.0",
 "version"=07-20,
 "date"="07-20",
 "name"="OMFGB_mecha-1.3.0_nightly-07-20.zip",
