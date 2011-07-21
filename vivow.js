@@ -2,6 +2,16 @@
 {
 "device"="vivow",
 "base"="1.3.0",
+"version"=07-21,
+"date"="07-21",
+"name"="OMFGB_vivow-1.3.0_nightly-07-21.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/vivow/OMFGB_vivow-1.3.0_nightly-07-21.zip",
+"installable"="false",
+"description"="You MUST manually wipe /system BEFORE flashing tonights build. God Mode enhancements and fixes, device specific updates -wimax and camera, updated google apps."
+},
+{
+"device"="vivow",
+"base"="1.3.0",
 "version"=07-20,
 "date"="07-20",
 "name"="OMFGB_vivow-1.3.0_nightly-07-20.zip",
