@@ -4,7 +4,7 @@
 "name"="Temporary Sensor Fix",
 "zipname"="sensor_fix.zip",
 "url"="http://r2doesinc.bitsurge.net/Addons/sensor_fix.zip",
-"installable"="true",
+"installable"="false",
 "category"="applications",
 "description"="Temporary fix for sensors, This installs the CM7 sensor libs from JT."
 },
