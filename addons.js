@@ -1,5 +1,14 @@
 [
 {
+"device"="fascinatemtd",
+"name"="Temporary Sensor Fix",
+"zipname"="sensor_fix.zip",
+"url"="http://r2doesinc.bitsurge.net/Addons/sensor_fix.zip",
+"installable"="true",
+"category"="applications",
+"description"="Temporary fix for sensors, This installs the CM7 sensor libs from JT."
+},
+{
 "device"="all",
 "name"="Wallpapers",
 "zipname"="Wallpapers.apk",
