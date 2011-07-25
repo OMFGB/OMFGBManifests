@@ -2,6 +2,16 @@
 {
 "device"="heroc",
 "base"="1.3.0",
+"version"=07-25,
+"date"="07-25",
+"name"="OMFGB_heroc-1.3.0_nightly-07-25.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/heroc/OMFGB_heroc-1.3.0_nightly-07-25.zip",
+"installable"="false",
+"description"="Updates for Mecha data, notification light while charging. Add Showcase and Mesmerize builds. Fix God mode related FCs. New features to God Mode."
+},
+{
+"device"="heroc",
+"base"="1.3.0",
 "version"=07-24,
 "date"="07-24",
 "name"="OMFGB_heroc-1.3.0_nightly-07-24.zip",
