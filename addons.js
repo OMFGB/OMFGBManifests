@@ -46,21 +46,39 @@
 },
 {
 "device"="mecha",
-"name"="KangBang! BFS v-0.8",
-"zipname"="KangBang-BFS-0.8.zip",
-"url"="http://r2doesinc.bitsurge.net/Addons/KangBang-BFS-0.8.zip",
+"name"="KangBang! CFS v-0.9",
+"zipname"="KangBang-CFS-0.9.zip",
+"url"="http://crackflashers.com/DRod2169/Thunderbolt/Kernels/KangBang-CFS-0.9.zip",
 "installable"="false",
 "category"="kernel",
-"description"="KangBang! BFS v-0.8 by drod2169"
+"description"="KangBang! CFS v-0.9 by drod2169"
 },
 {
 "device"="mecha",
-"name"="leanKernel v-3.5.1",
-"zipname"="imoseyon_leanKernel_v3.5.1AOSP.zip",
-"url"="http://r2doesinc.bitsurge.net/Addons/imoseyon_leanKernel_v3.5.1AOSP.zip",
+"name"="KangBang! BFS v-0.9",
+"zipname"="KangBang-BFS-0.9.zip",
+"url"="http://crackflashers.com/DRod2169/Thunderbolt/Kernels/KangBang-BFS-0.9.zip",
 "installable"="false",
 "category"="kernel",
-"description"="leanKernel v-3.5.1 by imoseyon"
+"description"="KangBang! BFS v-0.9 by drod2169"
+},
+{
+"device"="mecha",
+"name"="leanKernel v-3.5.8",
+"zipname"="imoseyon_leanKernel_v3.5.8AOSP.zip",
+"url"="http://www.androiddoes.net/~imoseyon/imoseyon_leanKernel_v3.5.8AOSP.zip",
+"installable"="false",
+"category"="kernel",
+"description"="leanKernel v-3.5.8 by imoseyon"
+},
+{
+"device"="mecha",
+"name"="leanKernel v-3.5.8 (184MHz)",
+"zipname"="imoseyon_leanKernel_184Mhz_v3.5.8AOSP.zip",
+"url"="http://www.androiddoes.net/~imoseyon/imoseyon_leanKernel_184Mhz_v3.5.8AOSP.zip",
+"installable"="false",
+"category"="kernel",
+"description"="leanKernel v-3.5.8 (unlocks 184MHz but is unstable and overheats for some) by imoseyon"
 }
 ]
 
