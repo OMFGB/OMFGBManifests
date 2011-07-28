@@ -27,6 +27,15 @@
 "description"="Google Apps for OMFGB"
 },
 {
+"device"="all",
+"name"="Google Apps - 07-27",
+"zipname"="gapps-07-27-xx.zip",
+"url"="http://r2doesinc.bitsurge.net/Addons/gapps-07-27-xx.zip",
+"installable"="false",
+"category"="google",
+"description"="Google Apps for OMFGB - 07-27"
+},
+{
 "device"="inc",
 "name"="OMFGBk-sbc 1",
 "zipname"="OMFGBk-sbc_1.zip",
