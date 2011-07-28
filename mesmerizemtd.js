@@ -1,6 +1,16 @@
 [
 {
 "device"="mesmerizemtd",
+"base"="1.3.1",
+"version"=07-28,
+"date"="07-28",
+"name"="OMFGB_mesmerizemtd-1.3.1_nightly-07-28.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/mesmerizemtd/OMFGB_mesmerizemtd-1.3.1_nightly-07-28.zip",
+"installable"="false",
+"description"="Update to OMFGB 1.3.1. Update to Android 2.3.5. Fix wifi tether for applicable devices. Fixes for Google apps instalation issues for Sholes."
+},
+{
+"device"="mesmerizemtd",
 "base"="1.3.0",
 "version"=07-24,
 "date"="07-24",
