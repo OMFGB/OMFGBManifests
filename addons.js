@@ -19,15 +19,6 @@
 },
 {
 "device"="all",
-"name"="Google Apps",
-"zipname"="gapps.zip",
-"url"="http://r2doesinc.bitsurge.net/GAPPS.zip",
-"installable"="false",
-"category"="google",
-"description"="Google Apps for OMFGB"
-},
-{
-"device"="all",
 "name"="Google Apps - 07-27",
 "zipname"="gapps-07-27-xx.zip",
 "url"="http://r2doesinc.bitsurge.net/Addons/gapps-07-27-xx.zip",
