@@ -2,6 +2,16 @@
 {
 "device"="mecha",
 "base"="1.3.1",
+"version"=07-29,
+"date"="07-29",
+"name"="OMFGB_mecha-1.3.1_nightly-07-29.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/mecha/OMFGB_mecha-1.3.1_nightly-07-29.zip",
+"installable"="false",
+"description"="New God Mode additions, MIUI Battery option, no lockscreen and lockscreen timeout options. New google apps fixes multiple issues. Enable notification light on Inc2 while charging."
+},
+{
+"device"="mecha",
+"base"="1.3.1",
 "version"=07-28,
 "date"="07-28",
 "name"="OMFGB_mecha-1.3.1_nightly-07-28.zip",
