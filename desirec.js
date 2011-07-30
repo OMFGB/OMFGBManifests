@@ -2,6 +2,16 @@
 {
 "device"="desirec",
 "base"="1.3.1",
+"version"=07-30,
+"date"="07-30",
+"name"="OMFGB_desirec-1.3.1_nightly-07-30.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/desirec/OMFGB_desirec-1.3.1_nightly-07-30.zip",
+"installable"="false",
+"description"="4G LTE Toggle included. Broken MMS fixed."
+},
+{
+"device"="desirec",
+"base"="1.3.1",
 "version"=07-28,
 "date"="07-28",
 "name"="OMFGB_desirec-1.3.1_nightly-07-28.zip",
