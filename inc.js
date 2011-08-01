@@ -2,6 +2,16 @@
 {
 "device"="inc",
 "base"="1.3.1",
+"version"=08-01,
+"date"="08-01",
+"name"="OMFGB_inc-1.3.1_nightly-08-01.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/inc/OMFGB_inc-1.3.1_nightly-08-01.zip",
+"installable"="false",
+"description"="That was a fail. MIUI Battery color changing, Google apps flashing option, Droid X fixes, etc."
+},
+{
+"device"="inc",
+"base"="1.3.1",
 "version"=07-31,
 "date"="07-31",
 "name"="OMFGB_inc-1.3.1_nightly-07-31.zip",
