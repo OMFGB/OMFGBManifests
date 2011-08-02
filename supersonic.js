@@ -2,6 +2,16 @@
 {
 "device"="supersonic",
 "base"="1.3.1",
+"version"=08-02,
+"date"="08-02",
+"name"="OMFGB_supersonic-1.3.1_nightly-08-02.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/supersonic/OMFGB_supersonic-1.3.1_nightly-08-02.zip",
+"installable"="false",
+"description"="MIUI Battery color changing, Google apps flashing option, Droid X fixes, Netflix fixed."
+},
+{
+"device"="supersonic",
+"base"="1.3.1",
 "version"=07-31,
 "date"="07-31",
 "name"="OMFGB_supersonic-1.3.1_nightly-07-31.zip",
