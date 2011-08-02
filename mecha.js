@@ -2,6 +2,16 @@
 {
 "device"="mecha",
 "base"="1.3.1",
+"version"=08-02,
+"date"="08-02",
+"name"="OMFGB_mecha-1.3.1_nightly-08-02.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/mecha/OMFGB_mecha-1.3.1_nightly-08-02.zip",
+"installable"="false",
+"description"="MIUI Battery color changing, Google apps flashing option, Droid X fixes, Netflix fixed."
+},
+{
+"device"="mecha",
+"base"="1.3.1",
 "version"=08-01,
 "date"="08-01",
 "name"="OMFGB_mecha-1.3.1_nightly-08-01.zip",
