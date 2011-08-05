@@ -18,6 +18,7 @@
 "description"="Custom T3hh4xx0r wallpapers. Only for HDPI devices at this time."
 },
 {
+"device"="all",
 "name"="OMFT 1.0.1",
 "zipname"="OMFT.apk",
 "url"="http://r2doesinc.bitsurge.net/Addons/OMFT.apk",
