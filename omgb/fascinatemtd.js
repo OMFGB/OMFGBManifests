@@ -2,7 +2,7 @@
 {
 "base"="1.2.2",
 "device"="fascinatemtd",
-"version"=08-02,
+"version"=08--02,
 "date"="08-02",
 "name"="OMFGB_fascinatemtd-1.3.1_nightly-08-02.zip",
 "url"="http://r2doesinc.bitsurge.net/nightlies/fascinatemtd/OMFGB_fascinatemtd-1.3.1_nightly-08-02.zip",
