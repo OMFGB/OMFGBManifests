@@ -15,6 +15,7 @@
 "url"="http://r2doesinc.bitsurge.net/Addons/Wallpapers.apk",
 "installable"="true",
 "category"="applications",
+"density"="hdpi",
 "description"="Custom T3hh4xx0r wallpapers. Only for HDPI devices at this time."
 },
 {
@@ -23,7 +24,8 @@
 "zipname"="OMFT.apk",
 "url"="http://r2doesinc.bitsurge.net/Addons/OMFT.apk",
 "installable"="true",
-"category"="applications",
+"category"="themes",
+"density"="hdpi",
 "description"="Custom theme designed for OMFGB and OMGB. Only for HDPI devices at this time. Updated 7-20."
 },
 {
