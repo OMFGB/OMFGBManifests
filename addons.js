@@ -1,6 +1,5 @@
 [
-<!--
-{
+/**{
 "device"="all",
 "name"="Netflix",
 "zipname"="Netflix.apk",
@@ -8,8 +7,7 @@
 "installable"="true",
 "category"="applications",
 "description"="Working Netflix, works even on Thunderbolt. Do NOT upgrade after installing this version. If you do, you break it."
-},
--->
+}, **/
 {
 "device"="all",
 "name"="Wallpapers",
