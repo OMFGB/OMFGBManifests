@@ -1,4 +1,16 @@
 [
+//Google Apps
+{
+"device"="all",
+"name"="Google Apps - 07-27",
+"zipname"="GAPPS.zip",
+"url"="http://r2doesinc.bitsurge.net/Addons/gapps-07-27-xx.zip",
+"installable"="false",
+"category"="google",
+"description"="Google Apps for OMFGB - 07-27"
+},
+
+//Apps
 /**{
 "device"="all",
 "name"="Netflix",
@@ -18,6 +30,8 @@
 "density"="hdpi",
 "description"="Custom T3hh4xx0r wallpapers. Only for HDPI devices at this time."
 },
+
+//Themes
 {
 "device"="all",
 "name"="OMFT 1.0.1",
@@ -28,15 +42,9 @@
 "density"="hdpi",
 "description"="Custom theme designed for OMFGB and OMGB. Only for HDPI devices at this time. Updated 7-20."
 },
-{
-"device"="all",
-"name"="Google Apps - 07-27",
-"zipname"="GAPPS.zip",
-"url"="http://r2doesinc.bitsurge.net/Addons/gapps-07-27-xx.zip",
-"installable"="false",
-"category"="google",
-"description"="Google Apps for OMFGB - 07-27"
-},
+
+//Kernels
+/////Incredible
 {
 "device"="inc",
 "name"="OMFGBk-sbc 1",
@@ -46,6 +54,8 @@
 "description"="SBC kernel for OMFGB",
 "category"="kernel"
 },
+
+/////Mecha
 {
 "device"="mecha",
 "name"="OMFGB-Drod Cfs",
