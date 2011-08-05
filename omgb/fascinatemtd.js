@@ -1,5 +1,6 @@
 [
 {
+"base"="1.2.2",
 "device"="fascinatemtd",
 "version"=08-02,
 "date"="08-02",
