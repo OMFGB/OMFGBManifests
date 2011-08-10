@@ -2,6 +2,16 @@
 {
 "device"="inc",
 "base"="1.3.1",
+"version"=08-10,
+"date"="08-10",
+"name"="OMFGB_inc-1.3.1_nightly-08-10.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/inc/OMFGB_inc-1.3.1_nightly-08-10.zip",
+"installable"="false",
+"description"="Cleaned up a ton of code and fix issues with the lockscreens and batteries in God Mode."
+},
+{
+"device"="inc",
+"base"="1.3.1",
 "version"=08-08,
 "date"="08-08",
 "name"="OMFGB_inc-1.3.1_nightly-08-08.zip",
