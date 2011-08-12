@@ -2,6 +2,16 @@
 {
 "device"="inc",
 "base"="1.3.1",
+"version"=08-12,
+"date"="08-12",
+"name"="OMFGB_inc-1.3.1_nightly-08-12.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/inc/OMFGB_inc-1.3.1_nightly-08-12.zip",
+"installable"="false",
+"description"="Fixed broken usb mounting from last night. More God Mode updates to clean and organize settings. Totally brand new "Bulletin Board" concept in God Mode."
+},
+{
+"device"="inc",
+"base"="1.3.1",
 "version"=08-11,
 "date"="08-11",
 "name"="OMFGB_inc-1.3.1_nightly-08-11.zip",
