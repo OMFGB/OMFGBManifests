@@ -15,5 +15,5 @@
 "device"="all",
 "name"="God Mode FC",
 "category"="r2doesinc",
-"description"="The God Mode FC in the Nightlies section is now fixed. Please refresh your menifests."
+"description"="The God Mode FC in the Nightlies section is now fixed. Please clear the DL cache and refresh your menifests."
 ]
