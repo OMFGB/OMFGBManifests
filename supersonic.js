@@ -7,7 +7,7 @@
 "name"="OMFGB_supersonic-1.3.1_nightly-08-12.zip",
 "url"="http://r2doesinc.bitsurge.net/nightlies/supersonic/OMFGB_supersonic-1.3.1_nightly-08-12.zip",
 "installable"="false",
-"description"="Fixed broken usb mounting from last night. More God Mode updates to clean and organize settings. Totally brand new "Bulletin Board" concept in God Mode."
+"description"="Fixed broken usb mounting from last night. More God Mode updates to clean and organize settings. Totally brand new Bulletin Board concept in God Mode."
 },
 {
 "device"="supersonic",
