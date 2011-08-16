@@ -94,6 +94,16 @@
 },
 {
 "device"="all",
+"name"="SimpleBLU",
+"zipname"="SimpleBLUFINAL1.apk",
+"url"="http://files.jaxidian.org/Android/download.php?file=16",
+"installable"="true",
+"category"="themes",
+"density"="hdpi",
+"description"="SimpleBLU by bretth18 is a blue Gingerbread theme. More info: http://l.jaxidian.org/SimpleBluTheme"
+},
+{
+"device"="all",
 "name"="Whiteout",
 "zipname"="signedNEG_Whiteout_beta_1.3.9.apk",
 "url"="http://files.jaxidian.org/Android/download.php?file=5",
