@@ -2,6 +2,16 @@
 {
 "device"="sholes",
 "base"="1.3.1",
+"version"=08-17,
+"date"="08-17",
+"name"="OMFGB_sholes-1.3.1_nightly-08-17.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/sholes/OMFGB_sholes-1.3.1_nightly-08-17.zip",
+"installable"="false",
+"description"="Automatic check for updates and notification upon updates to Nightlies, Addons, OMGB Builds, and alerts. Sense 3.0 Lockscreen coming soon."
+},
+{
+"device"="sholes",
+"base"="1.3.1",
 "version"=08-12,
 "date"="08-12",
 "name"="OMFGB_sholes-1.3.1_nightly-08-12.zip",
