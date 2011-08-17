@@ -1,4 +1,5 @@
 [
+//r2doesinc
 {
 "device"="all",
 "name"="Whats is this?",
@@ -6,7 +7,15 @@
 "description"="This is a section for us to post notes, updated in real time, to the users. I have plans for user replies to be implemented at a later time."
 },
 {
-"device"="mecha",
+"device"="all",
+"name"="Issues? Wipe and try again.",
+"category"="xoomdev",
+"description"="Having issues with god mode and the new auto update setting? Wipe data and you should be good to go."
+},
+
+//xoomdev
+{
+"device"="all",
 "name"="Trolol",
 "category"="xoomdev",
 "description"="Rule number 1, alsways blame me."
