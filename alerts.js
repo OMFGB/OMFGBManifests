@@ -9,7 +9,7 @@
 {
 "device"="all",
 "name"="Issues? Wipe and try again.",
-"category"="xoomdev",
+"category"="r2doesinc",
 "description"="Having issues with god mode and the new auto update setting? Wipe data and you should be good to go."
 },
 
