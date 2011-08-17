@@ -2,7 +2,7 @@
 //Google Apps
 {
 "device"="all",
-"name"="Google Appss",
+"name"="Google Apps",
 "zipname"="GAPPS.zip",
 "url"="http://r2doesinc.bitsurge.net/Addons/gapps-07-27-xx.zip",
 "installable"="false",
