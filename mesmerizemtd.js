@@ -2,6 +2,16 @@
 {
 "device"="mesmerizemtd",
 "base"="1.3.1",
+"version"=08-21,
+"date"="08-21",
+"name"="OMFGB_mesmerizemtd-1.3.1_nightly-08-21.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/mesmerizemtd/OMFGB_mesmerizemtd-1.3.1_nightly-08-21.zip",
+"installable"="false",
+"description"="Many fixes to all of the Samsung devices, new settings for hiding more icons in the status bar. Fixes for Lockscreen Settings FC."
+},
+{
+"device"="mesmerizemtd",
+"base"="1.3.1",
 "version"=08-19,
 "date"="08-19",
 "name"="OMFGB_mesmerizemtd-1.3.1_nightly-08-19.zip",
