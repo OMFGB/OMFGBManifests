@@ -2,6 +2,16 @@
 {
 "device"="desirec",
 "base"="1.3.1",
+"version"=08-21,
+"date"="08-21",
+"name"="OMFGB_desirec-1.3.1_nightly-08-21.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/desirec/OMFGB_desirec-1.3.1_nightly-08-21.zip",
+"installable"="false",
+"description"="Many fixes to all of the Samsung devices, new settings for hiding more icons in the status bar. Fixes for Lockscreen Settings FC."
+},
+{
+"device"="desirec",
+"base"="1.3.1",
 "version"=08-17,
 "date"="08-17",
 "name"="OMFGB_desirec-1.3.1_nightly-08-17.zip",
