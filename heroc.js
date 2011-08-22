@@ -2,6 +2,16 @@
 {
 "device"="heroc",
 "base"="1.3.1",
+"version"=08-22,
+"date"="08-22",
+"name"="OMFGB_heroc-1.3.1_nightly-08-22.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/heroc/OMFGB_heroc-1.3.1_nightly-08-22.zip",
+"installable"="false",
+"description"="Added options to hide 3/4g and sync icon. Added 160 character split to the MMS app. BT now sends song metadata to BT stereos."
+},
+{
+"device"="heroc",
+"base"="1.3.1",
 "version"=08-21,
 "date"="08-21",
 "name"="OMFGB_heroc-1.3.1_nightly-08-21.zip",
