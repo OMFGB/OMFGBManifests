@@ -74,6 +74,16 @@
 },
 {
 "device"="all",
+"name"="EpicBlue N Bold",
+"zipname"="EpicBlueCM7-Alpha-1_7Aug11.apk",
+"url"="http://files.jaxidian.org/Android/download.php?file=17",
+"installable"="true",
+"category"="themes",
+"density"="hdpi",
+"description"="(8/11) EpicBlue N Bold by Stetsonaw is a unique and aggressive blue on black theme. More info: http://l.jaxidian.org/EpicBlueTheme"
+},
+{
+"device"="all",
 "name"="Indistinct (w/ batt %)",
 "zipname"="Indistinct3WithBatteryPercentage.apk",
 "url"="http://files.jaxidian.org/Android/download.php?file=8",
@@ -95,12 +105,12 @@
 {
 "device"="all",
 "name"="SimpleBLU",
-"zipname"="SimpleBLUFINAL1.apk",
-"url"="http://files.jaxidian.org/Android/download.php?file=16",
+"zipname"="SimpleBLUFINAL2.apk",
+"url"="http://files.jaxidian.org/Android/download.php?file=18",
 "installable"="true",
 "category"="themes",
 "density"="hdpi",
-"description"="SimpleBLU by bretth18 is a blue Gingerbread theme. More info: http://l.jaxidian.org/SimpleBluTheme"
+"description"="(8/21) SimpleBLU by bretth18 is a blue Gingerbread theme. More info: http://l.jaxidian.org/SimpleBluTheme"
 },
 {
 "device"="all",
