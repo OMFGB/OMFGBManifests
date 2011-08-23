@@ -2,6 +2,16 @@
 {
 "device"="vivow",
 "base"="1.3.1",
+"version"=08-23,
+"date"="08-23",
+"name"="OMFGB_vivow-1.3.1_nightly-08-23.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/vivow/OMFGB_vivow-1.3.1_nightly-08-23.zip",
+"installable"="false",
+"description"="Welcome Roman to the T3hh4xx0r Developer Team. Fix four hotseat landscape layout. Laid groundwork for Touchwiz style notification pull down music controls (coming soon)."
+},
+{
+"device"="vivow",
+"base"="1.3.1",
 "version"=08-22,
 "date"="08-22",
 "name"="OMFGB_vivow-1.3.1_nightly-08-22.zip",
