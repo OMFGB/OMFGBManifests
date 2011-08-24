@@ -30,6 +30,16 @@
 "density"="hdpi",
 "description"="Custom T3hh4xx0r wallpapers."
 },
+{
+"device"="mecha",
+"name"="MIUI Camera (w/FFC Support via hack)",
+"zipname"="MiuiCamera_v17_TEST1.apk",
+"url"="http://files.jaxidian.org/Android/download.php?file=19",
+"installable"="true",
+"category"="applications",
+"density"="hdpi",
+"description"="The FFC support requires a simple hack. After installed, switch to FFC (you'll get a black screen), go into Settings and change Picture size to 1280x1024, and FFC works! I do not know who to credit with this. If you know, please notify team t3hh4xx0r or Jaxidian so we can give appropriate credit!"
+},
 
 //Themes
 {
