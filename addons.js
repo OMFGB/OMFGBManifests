@@ -238,6 +238,17 @@
 "installable"="false",
 "category"="kernel",
 "description"="Tiamat v1.1.0 by Cayniarb. More info: http://tiamat-dev.com"
+},
+
+/////vibrant
+{
+"device"="vibrantmtd",
+"name"="[Kernel] Bali 2.0",
+"zipname"="Bali-CM_v2.0.zip",
+"url"="http://goo-inside.me/kernels/edt/vibrant/Bali-CM_v2.0.zip",
+"installable"="false",
+"category"="kernel",
+"description"="drhonk's magical kernel. Voodoo sound & color. oc/uv support."
 }
 ]
 
