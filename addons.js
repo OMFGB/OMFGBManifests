@@ -243,7 +243,7 @@
 /////vibrant
 {
 "device"="vibrantmtd",
-"name"="[Kernel] Bali 2.0",
+"name"="Bali 2.0",
 "zipname"="Bali-CM_v2.0.zip",
 "url"="http://goo-inside.me/kernels/edt/vibrant/Bali-CM_v2.0.zip",
 "installable"="false",
