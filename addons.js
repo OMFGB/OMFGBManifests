@@ -120,7 +120,7 @@
 "installable"="true",
 "category"="themes",
 "density"="hdpi",
-"description"="Syngergy by bgill55, more info: http://www.jbthemes.com/bgill55",
+"description"="Syngergy by bgill55, more info: http://www.jbthemes.com/bgill55"
 },
 {
 "device"="all",
