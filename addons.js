@@ -114,6 +114,16 @@
 },
 {
 "device"="all",
+"name"="Synergy v1.3",
+"zipname"="Synergy-v1.3.apk",
+"url"="http://www.jbthemes.com/bgill55/Synergy_donate_v1.3.apk",
+"installable"="true",
+"category"="themes",
+"density"="hdpi",
+"description"="Syngergy by bgill55, more info: http://www.jbthemes.com/bgill55",
+},
+{
+"device"="all",
 "name"="Whiteout",
 "zipname"="signedNEG_Whiteout_beta_1.3.9.apk",
 "url"="http://files.jaxidian.org/Android/download.php?file=5",
