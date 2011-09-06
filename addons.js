@@ -271,7 +271,7 @@
 },
 {
 "device"="vibrantmtd",
-"name"="Immortality 0.1",
+"name"="Immortality v1",
 "zipname"="Immortality-CM_v1.zip",
 "url"="http://goo-inside.me/kernels/edt/vibrant/Immortality-CM_v1.zip",
 "installable"="false",
