@@ -291,7 +291,7 @@
 },
 {
 "device"="p999",
-"name"="Faux -- CM 0.4.1",
+"name"="Faux -- CM OC/UV 0.4.1",
 "zipname"="P999-CM-Kernel-0.4.1-ext4.zip",
 "url"="http://goo-inside.me/kernels/edt/g2x/P999-CM-Kernel-0.4.1-ext4.zip",
 "installable"="false",
