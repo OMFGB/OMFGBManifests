@@ -277,6 +277,46 @@
 "installable"="false",
 "category"="kernel",
 "description"="An alternate custom kernel with OC/UV made my Mr. Apocalypse"
+},
+
+///g2x
+{
+"device"="p999",
+"name"="Faux -- DS OC/UV 0.4.1",
+"zipname"="P999-DS-Kernel-0.4.1-ext4.zip",
+"url"="http://goo-inside.me/kernels/edt/g2x/P999-DS-Kernel-0.4.1-ext4.zip",
+"installable"="false",
+"category"="kernel",
+"description"="DS battery driver. OC/UV by default @ 1.1Ghz. Max @ 1.55GHz."
+},
+{
+"device"="p999",
+"name"="Faux -- CM 0.4.1",
+"zipname"="P999-CM-Kernel-0.4.1-ext4.zip",
+"url"="http://goo-inside.me/kernels/edt/g2x/P999-CM-Kernel-0.4.1-ext4.zip",
+"installable"="false",
+"category"="kernel",
+"description"="CM battery driver. OC/UV by default @ 1.1Ghz. Max @ 1.55GHz."
+},
+{
+"device"="p999",
+"name"="Faux -- DS 0.4.1",
+"zipname"="P999-DS-Kernel-0.4.1-ext4-sv.zip",
+"url"="http://goo-inside.me/kernels/edt/g2x/P999-DS-Kernel-0.4.1-ext4-sv.zip",
+"installable"="false",
+"category"="kernel",
+"description"="DS battery driver. Stock voltages, default @ 1.0Ghz. Max @ 1.4GHz."
+},
+{
+"device"="p999",
+"name"="Faux -- CM 0.4.1",
+"zipname"="P999-CM-Kernel-0.4.1-ext4-sv.zip",
+"url"="http://goo-inside.me/kernels/edt/g2x/P999-CM-Kernel-0.4.1-ext4-sv.zip",
+"installable"="false",
+"category"="kernel",
+"description"="DS battery driver. Stock voltages, default @ 1.0Ghz. Max @ 1.4GHz."
 }
+
+
 ]
 
