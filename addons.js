@@ -253,18 +253,18 @@
 /////vibrant
 {
 "device"="vibrantmtd",
-"name"="Bali 2.1",
-"zipname"="Bali-CM_v2.1.zip",
-"url"="http://goo-inside.me/kernels/edt/vibrant/Bali-CM_v2.1.zip",
+"name"="Bali 2.2",
+"zipname"="Bali-CM_v2.2.zip",
+"url"="http://goo-inside.me/kernels/edt/vibrant/Bali-CM_v2.2.zip",
 "installable"="false",
 "category"="kernel",
 "description"="drhonk's magical kernel. Voodoo sound & color. oc/uv support."
 },
 {
 "device"="vibrantmtd",
-"name"="Bali 2.1 w/BLN",
-"zipname"="Bali-CM_v2.1-LED.zip",
-"url"="http://goo-inside.me/kernels/edt/vibrant/Bali-CM_v2.1-LED.zip",
+"name"="Bali 2.2 w/BLN",
+"zipname"="Bali-CM_v2.2-LED.zip",
+"url"="http://goo-inside.me/kernels/edt/vibrant/Bali-CM_v2.2-LED.zip",
 "installable"="false",
 "category"="kernel",
 "description"="drhonk's magical kernel. Voodoo sound & color. oc/uv support."
