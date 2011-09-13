@@ -30,6 +30,16 @@
 "density"="hdpi",
 "description"="Custom T3hh4xx0r wallpapers."
 },
+{
+"device"="mecha",
+"name"="MIUI Camera (w/FFC Support via hack)",
+"zipname"="MiuiCamera_v17_TEST1.apk",
+"url"="http://files.jaxidian.org/Android/download.php?file=19",
+"installable"="true",
+"category"="applications",
+"density"="hdpi",
+"description"="The FFC support requires a simple hack. After installed, switch to FFC (you'll get a black screen), go into Settings and change Picture size to 1280x1024, and FFC works! I do not know who to credit with this. If you know, please notify team t3hh4xx0r or Jaxidian so we can give appropriate credit!"
+},
 
 //Themes
 {
@@ -75,12 +85,12 @@
 {
 "device"="all",
 "name"="EpicBlue N Bold",
-"zipname"="EpicBlueCM7-Alpha-1_7Aug11.apk",
-"url"="http://files.jaxidian.org/Android/download.php?file=17",
+"zipname"="EpicBlueCM7-1.0.1_08Sep11.apk",
+"url"="http://files.jaxidian.org/Android/download.php?file=20",
 "installable"="true",
 "category"="themes",
 "density"="hdpi",
-"description"="(8/11) EpicBlue N Bold by Stetsonaw is a unique and aggressive blue on black theme. More info: http://l.jaxidian.org/EpicBlueTheme"
+"description"="(9/08) EpicBlue N Bold by Stetsonaw is a unique and aggressive blue on black theme. More info: http://l.jaxidian.org/EpicBlueTheme"
 },
 {
 "device"="all",
@@ -215,30 +225,30 @@
 },
 {
 "device"="mecha",
-"name"="leanKernel v-3.5.11 TEST",
-"zipname"="imoseyon_leanKernel_v3.5.11AOSPtest.zip",
-"url"="http://files.jaxidian.org/Android/download.php?file=3",
+"name"="leanKernel v-3.5.12",
+"zipname"="imoseyon_leanKernel_v3.5.12AOSP.zip",
+"url"="http://files.jaxidian.org/Android/download.php?file=21",
 "installable"="false",
 "category"="kernel",
-"description"="leanKernel v-3.5.11 TEST by imoseyon. More info: http://l.jaxidian.org/LeanKernel"
+"description"="leanKernel v-3.5.12 by imoseyon. More info: http://l.jaxidian.org/LeanKernel"
 },
 {
 "device"="mecha",
-"name"="leanKernel v-3.5.8",
-"zipname"="imoseyon_leanKernel_v3.5.8AOSP.zip",
-"url"="http://www.androiddoes.net/~imoseyon/imoseyon_leanKernel_v3.5.8AOSP.zip",
+"name"="leanKernel v-3.6.0",
+"zipname"="imoseyon_leanKernel_v3.6.0AOSP.zip",
+"url"="http://files.jaxidian.org/Android/download.php?file=22",
 "installable"="false",
 "category"="kernel",
-"description"="leanKernel v-3.5.8 by imoseyon. More info: http://l.jaxidian.org/LeanKernel"
+"description"="leanKernel v-3.6.0 by imoseyon. More info: http://l.jaxidian.org/LeanKernel"
 },
 {
 "device"="mecha",
-"name"="leanKernel v-3.5.8 (184MHz)",
-"zipname"="imoseyon_leanKernel_184Mhz_v3.5.8AOSP.zip",
-"url"="http://www.androiddoes.net/~imoseyon/imoseyon_leanKernel_184Mhz_v3.5.8AOSP.zip",
+"name"="leanKernel v-3.6.0 (184MHz)",
+"zipname"="imoseyon_leanKernel_184Mhz_v3.6.0AOSP.zip",
+"url"="http://files.jaxidian.org/Android/download.php?file=23",
 "installable"="false",
 "category"="kernel",
-"description"="leanKernel v-3.5.8 (unlocks 184MHz but is unstable and overheats for some) by imoseyon. More info: http://l.jaxidian.org/LeanKernel"
+"description"="leanKernel v-3.6.0 (unlocks 184MHz but is unstable and overheats for some) by imoseyon. More info: http://l.jaxidian.org/LeanKernel"
 },
 {
 "device"="mecha",
