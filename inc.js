@@ -2,6 +2,16 @@
 {
 "device"="inc",
 "base"="1.3.1",
+"version"=09-13,
+"date"="09-13",
+"name"="OMFGB_inc-1.3.1_nightly-09-13.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/inc/OMFGB_inc-1.3.1_nightly-09-13.zip",
+"installable"="false",
+"description"="So much I dont even know what, but it also includes the Sense 3.0 and new Honeycomb Lockscreen"
+},
+{
+"device"="inc",
+"base"="1.3.1",
 "version"=08-25,
 "date"="08-25",
 "name"="OMFGB_inc-1.3.1_nightly-08-25.zip",
