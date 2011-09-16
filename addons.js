@@ -288,6 +288,15 @@
 "category"="kernel",
 "description"="An alternate custom kernel with OC/UV made my Mr. Apocalypse"
 },
+{
+"device"="vibrantmtd",
+"name"="GPS Fix",
+"zipname"="Vibrant_CM7_GPSFix_V1.5-CWM-signed.zip",
+"url"="http://goo-inside.me/roms/edt/vibrant/Vibrant_CM7_GPSFix_V1.5-CWM-signed.zip",
+"installable"="false",
+"category"="applications",
+"description"="Strictlyrude27's CM7 GPS Fix. Works wonders."
+},
 
 ///g2x
 {
