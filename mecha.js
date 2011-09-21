@@ -2,6 +2,16 @@
 {
 "device"="mecha",
 "base"="1.3.1",
+"version"=09-21,
+"date"="09-21",
+"name"="OMFGB_mecha-1.3.1_nightly-09-21.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/mecha/OMFGB_mecha-1.3.1_nightly-09-21.zip",
+"installable"="false",
+"description"="DX updated to GB kernel. Mecha converted to ext4. New lockscreen music controls. Fixed status bar music controls. TTF for motot devices...etc"
+},
+{
+"device"="mecha",
+"base"="1.3.1",
 "version"=09-13,
 "date"="09-13",
 "name"="OMFGB_mecha-1.3.1_nightly-09-13.zip",
