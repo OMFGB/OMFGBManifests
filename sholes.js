@@ -2,6 +2,16 @@
 {
 "device"="sholes",
 "base"="1.3.1",
+"version"=09-21,
+"date"="09-21",
+"name"="OMFGB_sholes-1.3.1_nightly-09-21.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/sholes/OMFGB_sholes-1.3.1_nightly-09-21.zip",
+"installable"="false",
+"description"="DX updated to GB kernel. Mecha converted to ext4. New lockscreen music controls. Fixed status bar music controls. TTF for motot devices...etc"
+},
+{
+"device"="sholes",
+"base"="1.3.1",
 "version"=09-14,
 "date"="09-14",
 "name"="OMFGB_sholes-1.3.1_nightly-09-14.zip",
