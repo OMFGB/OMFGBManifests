@@ -2,6 +2,16 @@
 {
 "device"="mesmerizemtd",
 "base"="1.3.1",
+"version"=09-22,
+"date"="09-22",
+"name"="OMFGB_mesmerizemtd-1.3.1_nightly-09-22.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/mesmerizemtd/OMFGB_mesmerizemtd-1.3.1_nightly-09-22.zip",
+"installable"="false",
+"description"="Fix random soft reboots across all devices. Fix Droid X radio issues."
+},
+{
+"device"="mesmerizemtd",
+"base"="1.3.1",
 "version"=09-21,
 "date"="09-21",
 "name"="OMFGB_mesmerizemtd-1.3.1_nightly-09-21.zip",
