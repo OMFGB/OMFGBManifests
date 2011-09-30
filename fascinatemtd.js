@@ -2,6 +2,16 @@
 {
 "device"="fascinatemtd",
 "base"="1.3.1",
+"version"=09-30,
+"date"="09-30",
+"name"="OMFGB_fascinatemtd-1.3.1_nightly-09-30.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/fascinatemtd/OMFGB_fascinatemtd-1.3.1_nightly-09-30.zip",
+"installable"="false",
+"description"="Fix random soft reboots across all devices. Fix Droid X radio issues."
+},
+{
+"device"="fascinatemtd",
+"base"="1.3.1",
 "version"=09-22,
 "date"="09-22",
 "name"="OMFGB_fascinatemtd-1.3.1_nightly-09-22.zip",
