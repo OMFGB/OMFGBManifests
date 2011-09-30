@@ -24,6 +24,12 @@
 "device"="all",
 "name"="Trolol",
 "category"="xoomdev",
-"description"="Rule number 1, alsways blame me."
+"description"="Rule number 1, always blame me."
+},
+{
+  "device"="all",
+  "name"="lockscreen revamps",
+  "category"="linuxmotion",
+  "description"="Sense lockscreen shortcuts added. New music bar from sbrissen. "
 }
 ]
