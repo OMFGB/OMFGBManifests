@@ -7,7 +7,7 @@
 "url"="http://r2doesinc.bitsurge.net/Addons/gapps-07-27-xx.zip",
 "installable"="false",
 "category"="google",
-"description"="Google Apps for OMFGB - 07-27"
+"description"="Google Apps for OMFGB - 09-29"
 },
 
 //Apps
