@@ -7,7 +7,7 @@
 "name"="OMFGB_mecha-1.3.1_nightly-09-30x.zip",
 "url"="http://r2doesinc.bitsurge.net/nightlies/mecha/OMFGB_mecha-1.3.1_nightly-09-30x.zip",
 "installable"="false",
-"description"="Blame the bot damnit. Fix audio"
+"description"="Blame the bot damnit. Fix audio."
 },
 {
 "device"="mecha",
