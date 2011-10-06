@@ -31,6 +31,17 @@
 "description"="Custom T3hh4xx0r wallpapers."
 },
 {
+"device"="all",
+"name"="Open File Manager",
+"market"="true",
+"installable"="true",
+"zipname"="OFM.apk",
+"url"="market://market.android.com/details?id=org.linuxmotion.filemanager",
+"category"="applications",
+"density"="all",
+"description"="Open File Manager(Beta)"
+},
+{
 "device"="mecha",
 "name"="MIUI Camera (w/FFC Support via hack)",
 "zipname"="MiuiCamera_v17_TEST1.apk",
