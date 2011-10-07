@@ -36,7 +36,7 @@
 "market"="true",
 "installable"="true",
 "zipname"="OFM.apk",
-"url"="market://market.android.com/details?id=org.linuxmotion.filemanager",
+"url"="market://details?id=org.linuxmotion.filemanager",
 "category"="applications",
 "density"="all",
 "description"="Open File Manager(Beta)"
