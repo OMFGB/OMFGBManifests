@@ -2,6 +2,16 @@
 {
 "device"="mecha",
 "base"="1.3.1",
+"version"=10-08,
+"date"="10-08",
+"name"="OMFGB_mecha-1.3.1_nightly-10-08.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/mecha/OMFGB_mecha-1.3.1_nightly-10-08.zip",
+"installable"="false",
+"description"="Samsung Torch fixed. God Mode flashing broken and unfixable due to CWM5 changes. GM market links working. Fixes to LS and SB music controls. Fixes to MIUI battery bar. Status ba swipe brightness controls added."
+},
+{
+"device"="mecha",
+"base"="1.3.1",
 "version"=09-30,
 "date"="09-30x",
 "name"="OMFGB_mecha-1.3.1_nightly-09-30x.zip",
