@@ -2,6 +2,16 @@
 {
 "device"="vibrantmtd",
 "base"="1.3.1",
+"version"=10-10,
+"date"="10-10",
+"name"="OMFGB_vibrantmtd-1.3.1_nightly-10-10.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/vibrantmtd/OMFGB_vibrantmtd-1.3.1_nightly-10-10.zip",
+"installable"="false",
+"description"="First build on Protekks server. Full on bug swatting mode. Closing in on v1.3.2"
+},
+{
+"device"="vibrantmtd",
+"base"="1.3.1",
 "version"=09-22,
 "date"="09-22",
 "name"="OMFGB_vibrantmtd-1.3.1_nightly-09-22.zip",
