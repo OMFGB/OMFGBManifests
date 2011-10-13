@@ -2,6 +2,16 @@
 {
 "device"="shadow",
 "base"="1.3.1",
+"version"=10-13,
+"date"="10-13",
+"name"="OMFGB_shadow-1.3.1_nightly-10-13.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/shadow/OMFGB_shadow-1.3.1_nightly-10-13.zip",
+"installable"="false",
+"description"="Hopefully fix for band installations on the Incredible 2 and lots of fixes for the Droid X. Still no Gps."
+},
+{
+"device"="shadow",
+"base"="1.3.1",
 "version"=10-12,
 "date"="10-12",
 "name"="OMFGB_shadow-1.3.1_nightly-10-12.zip",
