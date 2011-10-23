@@ -5,6 +5,7 @@
 "name"="We are on the market!",
 "category"="r2doesinc",
 "description"="T3hh4xx0r is finally on the market! Search for our Launcher, Wallpapers and God Mode apps now!"
+},
 {
 "device"="all",
 "name"="Whats is this?",
