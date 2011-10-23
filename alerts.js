@@ -2,10 +2,9 @@
 //r2doesinc
 {
 "device"="all",
-"name"="Im baaaack/Android repos hacked.",
+"name"="We are on the market!",
 "category"="r2doesinc",
-"description"="Some of you may know Ive been out of twon for a while, went to Burning Man this year and just got back. Builds will start back up, but may be slower. The android repos were hacked, thats the main reason CM and most of the other large AOSP roms havent updated recently." 
-},
+"description"="T3hh4xx0r is finally on the market! Search for our Launcher, Wallpapers and God Mode apps now!"
 {
 "device"="all",
 "name"="Whats is this?",
