@@ -2,6 +2,16 @@
 {
 "device"="inc",
 "base"="1.3.1",
+"version"=10-24,
+"date"="10-24",
+"name"="OMFGB_inc-1.3.1_nightly-10-24.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/inc/OMFGB_inc-1.3.1_nightly-10-24.zip",
+"installable"="false",
+"description"="We did some stuff, google finally posted sources again. fixed some samsung device bootlopping (I think). Got some Inc2 data arrows working."
+},
+{
+"device"="inc",
+"base"="1.3.1",
 "version"=10-12,
 "date"="10-12",
 "name"="OMFGB_inc-1.3.1_nightly-10-12.zip",
