@@ -2,6 +2,16 @@
 {
 "device"="shadow",
 "base"="1.3.1",
+"version"=10-24,
+"date"="10-24",
+"name"="OMFGB_shadow-1.3.1_nightly-10-24.zip",
+"url"="http://r2doesinc.bitsurge.net/nightlies/shadow/OMFGB_shadow-1.3.1_nightly-10-24.zip",
+"installable"="false",
+"description"="We did some stuff, google finally posted sources again. fixed some samsung device bootlopping (I think). Got some Inc2 data arrows working."
+},
+{
+"device"="shadow",
+"base"="1.3.1",
 "version"=10-13,
 "date"="10-13",
 "name"="OMFGB_shadow-1.3.1_nightly-10-13.zip",
