@@ -1,5 +1,12 @@
 [
 //r2doesinc
+
+{
+"device"="all",
+"name"="Hi Jamie",
+"category"="r2doesinc",
+"description"="TLOL LIKE THIS"
+},
 {
 "device"="all",
 "name"="We are on the market!",
